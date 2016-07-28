@@ -19,3 +19,6 @@ class NewHRQuery(object):
     def hr_sales(self):
         pass
         #TODO write a code that will return the info of potentially interesting candidates to the NLP part
+
+    def get_dream_candidate(self):
+        pass
