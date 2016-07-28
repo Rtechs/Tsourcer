@@ -11,7 +11,7 @@ class NewHRQuery(object):
 
     def __str__(self):
          pass
-    
+
     def hr_sourcer(self):
         pass
         #TODO write a code that will select all the interesting candidates from DB
@@ -19,5 +19,3 @@ class NewHRQuery(object):
     def hr_sales(self):
         pass
         #TODO write a code that will return the info of potentially interesting candidates to the NLP part
-
-
