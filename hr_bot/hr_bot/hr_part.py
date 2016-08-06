@@ -1,5 +1,7 @@
 class NewHRQuery(object):
 
+#this is a model
+
     def __init__(self, title, skills=None, age=None, location=None):
         self.dreamtitle = title.lower()
         if skills:
